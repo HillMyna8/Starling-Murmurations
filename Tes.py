@@ -1,2 +1,3 @@
 # This is a file dedicated to Tes
-print("Tes")
+x = "Tes2"
+print(x)
